@@ -50,9 +50,11 @@ Follow these steps to create a simple HTML page like this one:
      <header>
          <h1>My Simple Page</h1>
          <nav>
-             <a href="#home">Home</a>
-             <a href="#about">About</a>
-             <a href="#contact">Contact</a>
+           <ul>
+             <li><a href="#home">Home</a></li>
+             <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li>
+           </ul>
          </nav>
      </header>
      ```
