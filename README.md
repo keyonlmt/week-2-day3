@@ -1,4 +1,4 @@
-# Week 2 Day 3 - Creating a Nav Bar and using the <main> element
+# Week 2 Day 3 - Creating a Nav Bar and using the `<main>` element
 
 ## What is Forking a Repository?
 Forking a repository means making a copy of someone else's project on GitHub so you can work on it independently. Here’s how you can do it:
@@ -90,4 +90,4 @@ Once you have made changes to your project, follow these steps to save and uploa
 6. **Push your changes** to GitHub by clicking the **Sync Changes** or **Push** button in the Source Control tab.
 7. Go to your GitHub repository and refresh the page to see your changes.
 
-That's it! You've created a Nav and used the <main> element, committed your changes, and uploaded them to GitHub. Keep practicing, and soon you'll be building even more advanced websites!
+That's it! You've created a Nav and used the `<main>` element, committed your changes, and uploaded them to GitHub. Keep practicing, and soon you'll be building even more advanced websites!
